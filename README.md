@@ -40,9 +40,6 @@ I have a more than five years of professional work experience in web development
    <a href="https://unsplash.com/@vatanachhorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unsplash.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 
-
-Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.  
-
 <img src="https://komarev.com/ghpvc/?username=darbar23" alt="VatanaChhorn" />
 
 ![Vatana's Github stats](https://github-readme-stats.vercel.app/api?username=darbar23&show_icons=true)
