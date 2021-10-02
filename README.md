@@ -4,8 +4,6 @@
 
 I have a more than five years of professional work experience in web development and web design. 👨🏻‍💻 
 
-<img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />
-
 ### 💼  Things that I'm currently working on: 
 * Finished my master in computer application degree.
 * A Full-Stack Developer & Open Source enthusiast.
@@ -45,15 +43,10 @@ I have a more than five years of professional work experience in web development
 
 Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.  
 
-<img src="https://komarev.com/ghpvc/?username=VatanaChhorn" alt="VatanaChhorn" />
+<img src="https://komarev.com/ghpvc/?username=darbar23" alt="VatanaChhorn" />
 
-![Vatana's Github stats](https://github-readme-stats.vercel.app/api?username=vatanachhorn&show_icons=true)
+![Vatana's Github stats](https://github-readme-stats.vercel.app/api?username=darbar23&show_icons=true)
 
 ---
 
-### Credit to 
--  Mandragora Estudio **for GIF**. 
-
-https://dribbble.com/shots/9344637-working-hard
-
-⭐️ From [VatanaChhorn](https://github.com/Vatanachhorn)
+⭐️ From [Kuldipsinh](https://github.com/darbar23)
