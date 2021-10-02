@@ -30,9 +30,9 @@ I have a more than five years of professional work experience in web development
  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css.png" alt="Css" width="40" height="40" /></code>&nbsp;
  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html.png" alt="Html" width="40" height="40" /></code>&nbsp;
  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40" /></code>&nbsp;
-   </p>
-
-**Connect with me:**
+ <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain-wordmark.svg" alt="Mysql" width="40" height="40" /></code>&nbsp;
+ 
+ **Connect with me:**
 <p align="left">
 <a href="https://www.instagram.com/vatana.chhorn/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://twitter.com/vatana_chhorn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
