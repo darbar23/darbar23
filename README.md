@@ -30,7 +30,7 @@ I have a more than five years of professional work experience in web development
  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css.png" alt="Css" width="40" height="40" /></code>&nbsp;
  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html.png" alt="Html" width="40" height="40" /></code>&nbsp;
  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40" /></code>&nbsp;
- <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain-wordmark.svg" alt="Mysql" width="40" height="40" /></code>&nbsp;
+ <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain-wordmark.svg" alt="Apache" width="40" height="40" /></code>&nbsp;
  
  **Connect with me:**
 <p align="left">
