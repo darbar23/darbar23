@@ -25,10 +25,10 @@ I have a more than five years of professional work experience in web development
  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Node Js" width="40" height="40" /></code>&nbsp;
  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Bootstrap" width="40" height="40" /></code>&nbsp;
  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Jquery" width="40" height="40" /></code>&nbsp;
- <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Javascript" width="40" height="40" /></code>&nbsp;
+ <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.png" alt="Javascript" width="40" height="40" /></code>&nbsp;
  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="jQuery" width="40" height="40" /></code>&nbsp;
- <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Css" width="40" height="40" /></code>&nbsp;
- <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Html" width="40" height="40" /></code>&nbsp;
+ <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css.png" alt="Css" width="40" height="40" /></code>&nbsp;
+ <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html.png" alt="Html" width="40" height="40" /></code>&nbsp;
  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Rest Api" width="40" height="40" /></code>&nbsp;
  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Mysql" width="40" height="40" /></code>&nbsp;
    </p>
