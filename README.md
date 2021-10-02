@@ -20,17 +20,16 @@ I have a more than five years of professional work experience in web development
 <p align="left">
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/php/php.png" alt="PHP" width="40" height="40"/></code>&nbsp;
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/c/c_48x48.png" alt="Wordpress" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Codeigniter" width="40" height="40" /></code>&nbsp;
- <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Laravel" width="40" height="40" /></code>&nbsp;
- <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Node Js" width="40" height="40" /></code>&nbsp;
- <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Bootstrap" width="40" height="40" /></code>&nbsp;
- <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Jquery" width="40" height="40" /></code>&nbsp;
+ <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-plain-wordmark.svg" alt="Wordpress" width="40" height="40" /></code>&nbsp; 
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="Codeigniter" width="40" height="40" /></code>&nbsp;
+ <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40" /></code>&nbsp;
+ <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node Js" width="40" height="40" /></code>&nbsp;
+ <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" /></code>&nbsp;
+ <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" alt="Jquery" width="40" height="40" /></code>&nbsp;
  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.png" alt="Javascript" width="40" height="40" /></code>&nbsp;
- <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="jQuery" width="40" height="40" /></code>&nbsp;
  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css.png" alt="Css" width="40" height="40" /></code>&nbsp;
  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html.png" alt="Html" width="40" height="40" /></code>&nbsp;
- <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Rest Api" width="40" height="40" /></code>&nbsp;
- <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Mysql" width="40" height="40" /></code>&nbsp;
+ <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40" /></code>&nbsp;
    </p>
 
 **Connect with me:**
