@@ -32,7 +32,7 @@ I have a more than five years of professional work experience in web development
  
  **Connect with me:**
 <p align="left">
-<a target="_blank" href="https://www.instagram.com/kuldipdarbar_/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="kuldipdarbar_" height="40" width="40" /></a> &nbsp;&nbsp;
+<a  href="https://www.instagram.com/kuldipdarbar_/" target="_blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="kuldipdarbar_" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://twitter.com/kuldipdarbar23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="kuldipdarbar23" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/darbar23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="darbar23" height="40" width="40" /></a> &nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/kuldipsinh-parmar-b3116a45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="kuldipsinh-parmar-b3116a45" height="40" width="40" /></a> &nbsp;&nbsp;
