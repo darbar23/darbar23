@@ -29,7 +29,9 @@ I have a more than five years of professional work experience in web development
  <code><img title="HTML" src="https://cdn3.iconfinder.com/data/icons/picons-social/57/10-html5-512.png" alt="Html" width="40" height="40" /></code>&nbsp;
  <code><img title="Mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40" /></code>&nbsp;
  <code><img title="Apache" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain-wordmark.svg" alt="Apache" width="40" height="40" /></code>&nbsp;
- <code><img title="Rest Api" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postman-512.png" alt="Apache" width="40" height="40" /></code>&nbsp;
+ <code><img title="Rest Api" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postman-512.png" alt="Rest api" width="40" height="40" /></code>&nbsp;
+ <code><img title="Photoshop" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_adobe_photoshop-512.png" alt="Photoshop" width="40" height="40" /></code>&nbsp;
+ 
  
  **Connect with me:**
 <p align="left">
