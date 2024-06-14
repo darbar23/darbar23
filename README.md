@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I am a seasoned web developer with over 9 years of
 ## 📫 How to Reach Me
 
 - **Email**: kuldipdarbar23@gmail.com
-- **LinkedIn**: (https://www.linkedin.com/in/kuldipsinh-parmar-b3116a45/)
+- **LinkedIn**: https://www.linkedin.com/in/kuldipsinh-parmar-b3116a45/
 - **Website**: https://hkprofile.in/
 
 ## 💬 Let's Connect
